@@ -15,7 +15,7 @@ cos_simA_B = 1 - distance.cosine(A, B)
 cos_simB_C = 1 - distance.cosine(B, C)
 cos_simA_C = 1 - distance.cosine(A, C)
 
-# print("e_AC, e_BC, e_AC")
+# print("e_AC, e_BC, e_AC")use
 # print(euc_dstA_B, euc_dstB_C, euc_dstA_C)
 # print()
 # print("c_AC, c_BC, c_AC")
